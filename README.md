@@ -1,8 +1,8 @@
 ===================
 # Awesome Perfocards
-A curated list of awesome Fortran frameworks, libraries and software. Inspired by [awesome-swift](https://github.com/Wolg/awesome-swift).
+A curated list of awesome Perfocards frameworks, libraries and software. Inspired by [awesome-swift](https://github.com/Wolg/awesome-swift).
 
-- [Awesome Fortran](#awesome-fortran)
+- [Awesome Perfocards](#awesome-Perfocards)
 	- [JSON Manipulation](#json-manipulation)
 	- [XML Manipulation](#xml-manipulation)
 	- [Testing](#testing)
