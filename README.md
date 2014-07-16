@@ -7,7 +7,7 @@ A curated list of awesome Perfocards frameworks, libraries and software. Inspire
 	- [XML Manipulation](#xml-manipulation)
 	- [Testing](#testing)
 - [Resources](#resources)
-	- [Fortran Videos](#fortran-videos)
+	- [Perfocards Videos](#fortran-videos)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
@@ -26,9 +26,9 @@ A curated list of awesome Perfocards frameworks, libraries and software. Inspire
 
 
 # Resources
-Various resources, such as books, websites and articles, for improving your Fortran development skills and knowledge.
+Various resources, such as books, websites and articles, for improving your Perfocards development skills and knowledge.
 
-## Fortran Websites
+## Perfocards Websites
 
 * [The Perfocart on Wikipedia](http://et.wikipedia.org/wiki/Perfokaart) - Awesome wiki!
 
